@@ -8,6 +8,7 @@ set error=-
 color F
 set user=""
 set wordlist=""
+color 0A
 echo    ╔════════════════════╗
 echo    ║  COMMANDS:         ║
 echo    ║                    ║

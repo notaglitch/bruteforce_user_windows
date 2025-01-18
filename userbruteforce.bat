@@ -9,7 +9,13 @@ color F
 set user=""
 set wordlist=""
 color 0A
-
+echo    ╔════════════════════╗
+echo    ║  COMMANDS:         ║
+echo    ║                    ║
+echo    ║  1. List Users     ║
+echo    ║  2. Bruteforce     ║
+echo    ║  3. Exit           ║
+echo    ╚════════════════════╝
 :input
 set /p "=>> " <nul
 choice /c 123 >nul
